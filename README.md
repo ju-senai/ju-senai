@@ -1,0 +1,11 @@
+- ## Sobre mim ##
+- 👋 **Olá, meu nome é Júlia, tenho 17 anos**
+- ## Gostos ##
+- 👀 *Gosto de tocar instrumentos, ler livros, assistir e sair com meus amigos e família*
+- ## Aprendizagem ##
+- 🌱 ___Estou aprendendo sobre GitHub e PHP___
+- ## Família ##
+- 💞️ >Tenho um irmão, uma irmã, um cachorro e uma tartaruga. Tenho cerca de 16 tios e tias.
+- ## Futuro ##
+- 📫 >No próximo ano, vou começar a faculdade de Fisioterapia. Futuramente, pretendo me especializar em fisioterapia pediátrica e neonatal, e me especializar em alguma área específica, como reabilitação ou fisioterapia respiratória.
+- ### Obrigada por visitar meu perfil ###
